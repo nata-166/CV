@@ -20,3 +20,4 @@ Two light shades of green are used as background colors, as opposite of the dark
 -Icons are used to help an easier understanding of what is been looked at, as well as the segmented status bar, that allows to visually see and compare the levels of the skills.
 
 Figma link: https://www.figma.com/design/FTalF3by0WqtJvXqMoBILw/CV?node-id=0-1&t=rbYrvl3UOSBr0MQ8-1
+Web link: https://nata-166.github.io/CV/
